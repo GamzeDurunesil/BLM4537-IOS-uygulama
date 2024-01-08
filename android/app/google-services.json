@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "284267032741",
+    "project_id": "mobildeneme-42bb7",
+    "storage_bucket": "mobildeneme-42bb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284267032741:android:711c2b0cc31a7f90d39d4c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgfWWJW6GZFB4Tx_Qij_7OEAnnjIQBEVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
